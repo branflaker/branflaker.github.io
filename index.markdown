@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+# Yearly Rankings
+
+[Top 20 of 2024](./top20of2024.md)
